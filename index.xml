@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://doc.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://doc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://doc.github.io/about/</link>
+      <pubDate>Thu, 25 Nov 2021 20:08:19 +0800</pubDate>
+      
+      <guid>http://doc.github.io/about/</guid>
+      <description>d&amp;rsquo;j&amp;rsquo;c 三从四德 的时刻了仓库收到 是的考查考生的 阿萨的内存卡</description>
+    </item>
+    
+  </channel>
+</rss>
